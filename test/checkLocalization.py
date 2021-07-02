@@ -37,7 +37,7 @@ def main():
                 continue
             logging.info(f"Checking {lang}")
             # read language file
-            with open(os.path.join(langpath, file)) as f:
+            with open(os.path.join(langpath, file), encoding='utf-8') as f:
                 langJSON = json.load(f)
             if compare(defaultJSON, langJSON, position=f"{file}->{lang}"):
                 logging.info(f"No errors found")

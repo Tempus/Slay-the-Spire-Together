@@ -55,7 +55,7 @@
   "PneumaticPost": {
     "NAME": "Poste Pneumatique",
     "DESCRIPTION": [
-      "Vous pouvez relancer vos offres une fois par Coursier. Les Cartes envoyées par le Coursier sont améliorées. NL NL N'offrira jamais le Chaudron ou le Planétaire." 
+      "Vous pouvez relancer vos offres une fois par Coursier. Les Cartes envoyées par le Coursier sont améliorées. NL NL N'offrira jamais le Chaudron ou le Planétaire."
     ]
   },
   "VaporFunnel": {
@@ -83,7 +83,7 @@
     "DESCRIPTION": [
       "Les membres de l'équipe avec la plus basse quantité de chaque ressource obtiendra une récompense correspondante. Tout le monde obtient un choix de cartes.",
       "Grande Maison !",
-      " NL NL %d Or: %s NL Potion: %s NL Choix de Carte Supplémentaire: %s NL Retirer une Carte: %s NL Relique: %s NL Amélioration: %s NL PV Max: %s"
+      " NL NL %d Or: %s NL Potion: %s NL Choix de Carte Supplémentaire: %s NL Retirer une Carte: %s NL Relique: %s NL Amélioration: %s NL %d  PV Max: %s"
     ]
   },
   "MessageInABottle": {
